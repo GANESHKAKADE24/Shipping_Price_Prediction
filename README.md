@@ -11,7 +11,14 @@ the same time.
 The main goal is to predict the supply chain shipment pricing based on the available
 factors in the dataset.
 
+## Data
+*We are using Supply Chain Shipment Pricing Data
+his data set provides supply chain health commodity shipment and pricing data. Specifically, the data set identifies Antiretroviral (ARV) and HIV lab shipments to supported countries. In addition, the data set provides the commodity pricing and associated supply chain expenses necessary to move the commodities to countries for use. The dataset has similar fields to the Global Fund's Price, Quality and Reporting (PQR) data.*
+### Data Dictionary link
+https://data.usaid.gov/HIV-AIDS/Supply-Chain-Shipment-Pricing-Data/a3rc-nmf6
+
 ### Approach: 
+
 The classical machine learning tasks like Data Exploration, Data Cleaning,
 Feature Engineering, Model Building and Model Testing. Try out different machine
 learning algorithms that’s best fit for the above case.
