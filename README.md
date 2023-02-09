@@ -35,7 +35,7 @@ learning algorithms that’s best fit for the above case.
 
 • Model Development : In this step, we use the resultant data after the implementation of the previous step to cross validate our Machine Learning model and perform Hyperparameter optimization based on various performance metrics in order to make our model predict as accurate results as possible.
 
--I got best accuraccy using LGBMRegressor model whicj is around 99 % which is pretty high..
+- I got best accuraccy using LGBMRegressor model whicj is around 99 % which is pretty high..
 - We have aschived this accuracy using different scaling,feature selection and hyperparamter Tuning Techniques
 
   
